@@ -60,9 +60,5 @@ streamlit run src/frontend/app.py
 2. **Model Training:** Trains an **AutoARIMA model per SKU** to forecast demand.
 3. **Streamlit Dashboard:** Allows users to view historical demand and predictions, providing alerts for replenishment based on supplier lead times.
 
-## License
-This project is open-source and free to use.
-
----
 
 Developed for demand forecasting and inventory optimization.
