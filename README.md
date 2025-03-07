@@ -6,6 +6,5 @@ This project predicts potential fraudulent physician/provider claims using vario
 
 2. Demand Forecasting Application
 This project implements a demand forecasting application for an artificial jewelry accessories company. The company moved away from spreadsheets to automate replenishment orders for suppliers, reducing costs on:
-
 Inventory maintenance (less capital stuck in stock)
 Surge demand forecasting (fewer lost sales due to stockouts)
